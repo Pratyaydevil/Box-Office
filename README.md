@@ -1,4 +1,3 @@
-# EDA PROJECT
 # Exploratory Data Analysis (EDA) – Mroz Dataset
 
 **Author:** Pratyay Majhi  
